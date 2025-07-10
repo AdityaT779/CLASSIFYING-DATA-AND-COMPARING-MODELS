@@ -1,0 +1,17 @@
+URL,Label
+http://paypal-verify-account-security-alert-login.com/reset?user=123,Phishing
+https://secure.netflix-update-check-portal.com/login/verify.php,Phishing
+http://amazon-support-help-center-login-details.net,Phishing
+http://verify-dropbox-login-account-service-update.org,Phishing
+http://ebay-confirmation-transaction-authenticate-now.com,Phishing
+https://www.google.com,Legitimate
+https://apple.com,Legitimate
+https://www.microsoft.com/en-us/windows,Legitimate
+https://github.com/features/actions,Legitimate
+https://www.nytimes.com,Legitimate
+http://login-facebook-help-support-security-info-check.com,Phishing
+http://chasebank-login-auth-update-verify.net,Phishing
+https://www.bbc.com/news,Legitimate
+https://store.steampowered.com,Legitimate
+http://paypal-check-login-confirm-info-alert-warning.com,Phishing
+https://linkedin.com/in/username,Legitimate
